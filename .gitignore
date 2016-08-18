@@ -2,3 +2,5 @@ _site
 .sass-cache
 _exclude
 .idea
+.jekyll-metadata
+.vscode

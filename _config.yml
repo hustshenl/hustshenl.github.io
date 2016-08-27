@@ -7,7 +7,7 @@
 
 # Site settings
 title: Shen.L
-brief-intro: Web架构师
+brief-intro: Web技术研究记录与分享
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.shenl.com" # the base hostname & protocol for your site
 
@@ -19,7 +19,7 @@ github_username:  hustshenl
 email: shen@shenl.com
 zhihu_username: hustshenl
 
-description_footer: 本站记录我Web架构之旅的沿途风景！
+description_footer: 本站记录我Web技术研究笔记心得和其他碎碎念！
 
 # comments
 # two ways to comment, only choose one, and use your own short name

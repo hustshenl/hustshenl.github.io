@@ -46,14 +46,13 @@ excerpt: 第一篇文章，记录下自己本博的搭建全过程，仅供参�
 * 本次安装在Linux下进行
 
 1. 安装运行Jekyll
-    
+
     ```shell
     gem install jekyll
     jekyll new myblog
     cd myblog
     ~/myblog $ jekyll serve
     ```
-
     Jekyll安装完毕！
 
     Jekyll服务默认端口是4000，打开浏览器，输入：http://localhost:4000 即可访问

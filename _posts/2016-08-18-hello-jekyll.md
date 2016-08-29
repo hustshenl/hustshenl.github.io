@@ -47,13 +47,10 @@ excerpt: 第一篇文章，记录下自己本博的搭建全过程，仅供参�
 
 1. 安装运行Jekyll
 
-    ```shell
-    
-    gem install jekyll
-    jekyll new myblog
-    cd myblog
-    ~/myblog $ jekyll serve
-    ```
+        gem install jekyll
+        jekyll new myblog
+        cd myblog
+        ~/myblog $ jekyll serve
     
     Jekyll安装完毕！
 

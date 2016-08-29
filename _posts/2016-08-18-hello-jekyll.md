@@ -49,8 +49,11 @@ excerpt: 第一篇文章，记录下自己本博的搭建全过程，仅供参�
 
     ```shell
         gem install jekyll
+        
         jekyll new myblog
+        
         cd myblog
+        
         ~/myblog $ jekyll serve
     ```
     

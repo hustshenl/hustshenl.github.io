@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PHP 引用变量，以及 foreach 的引用变量导致的问题"
-date:   2017-01-10 10:00:00
+date:   2017-01-09 10:00:00
 categories: php
 tags: [php,foreach,引用变量]
 excerpt: 从一道面试题引发的关于 PHP 的 foreach 循环中的引用变量的一些坑
@@ -81,6 +81,3 @@ array(3) { [0]=> string(1) "a" [1]=> string(1) "b" [2]=> &string(1) "b" }
 
 
 编程时大部分情况会注意引用变量的赋值问题，但是跟 `foreach` 联合在一起时可能就会造成误解，特别是多次循环，临时变量名称重复的情况要特别注意。
-
-
-
